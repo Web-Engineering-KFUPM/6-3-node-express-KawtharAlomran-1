@@ -1,5 +1,4 @@
-import { getRandomQuote } from './quotes.js'; 
-
+import { getRandomQuote } from "./quotes.js";
 // TODO 1: Import and Create express app instance
 import express from "express";
 const app = express();
